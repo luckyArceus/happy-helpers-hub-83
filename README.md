@@ -1,14 +1,7 @@
 # Joyful Creations
 
-please create this...
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://happy-helpers-hub-83.lovable.app
-
+p
 ## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/7a6552f3-8f9a-4081-8b22-f132f46cb055).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
