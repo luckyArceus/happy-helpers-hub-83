@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep BSSY prototype data and interactions frontend-only with shared synthetic records; this prevents demo screens from implying live BMC systems.
