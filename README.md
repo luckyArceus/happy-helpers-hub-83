@@ -1,6 +1,4 @@
-# Joyful Creations
 
-p
 ## Build with Lovable
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
